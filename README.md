@@ -1,4 +1,6 @@
 # BigDROID
+Game I've made for a game jam in seven days.
+
 Kill enemies in an arena by shooting them, dashing through them, per spin attacks, or by activating special modes on your way to the next highscore!
 Made in Godot.
 
@@ -10,4 +12,3 @@ Made in Godot.
 ![Game](/pics/game_2.PNG)
 ![Main Menu](/pics/main_menu.PNG)
 
-Made in 7 days during a game jam.
